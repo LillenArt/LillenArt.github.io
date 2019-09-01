@@ -251,9 +251,9 @@ a.sidebar-nav-item:focus {
 
 /* Lillen Custom */
 .theme-base-0g .sidebar {
-  background-color: #1F1F1F;
+  background-color: #33253E;
 }
 .theme-base-0g .content a,
 .theme-base-0g .related-posts li a:hover {
-  color: #724d8e;
+  color: #815d9c;
 }
