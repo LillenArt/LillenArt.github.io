@@ -1,6 +1,11 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
+
+      
+      <a href="{{ site.baseurl }}"><img src="{{ site.baseurl }}assets/images/logo.png"></a>
+      
+
       <h1>
         <a href="{{ site.baseurl }}">
           {{ site.title }}
@@ -25,12 +30,17 @@
           {% endif %}
         {% endif %}
       {% endfor %}
-
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
-      <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
+      <div style="display: none;">
+      <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip"></a>
+      <a class="sidebar-nav-item" href="{{ site.github.repo }}"></a>
+      </div>
+      <div class="sidebar-nav-item">
+        <a href="https://linktr.ee/lillendandieart"><i class="fas fa-link fa-sm"></i></a>
+        <a href="https://www.instagram.com/lillendandieart"><i class="fab fa-instagram fa-sm"></i></a>
+        <a href="https://twitter.com/LillenArt"><i class="fab fa-twitter fa-sm"></i></a>
+        <a href="https://www.twitch.tv/LillenArt"><i class="fab fa-twitch fa-sm"></i></a>
+      </div>
     </nav>
-
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    <p>Lillen Art &copy; {{ site.time | date: '%Y' }}. </p>
   </div>
 </div>
