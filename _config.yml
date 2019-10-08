@@ -13,10 +13,10 @@ permalink: pretty
 title: Lillen Art
 tagline: 'Art Creation & Tutorials'
 description: 'Art Creation & Tutorials'
-baseurl: /
+baseurl: https://lillenart.github.io/
 author:
   name: 'Synthia Lillendandie'
-  url: /
+  url: https://lillenart.github.io/
 paginate: 5
 
 # Custom vars
