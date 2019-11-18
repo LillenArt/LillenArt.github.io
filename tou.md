@@ -13,7 +13,7 @@ We have taken reasonable steps to ensure that the information contained in this 
 There may be changes to the material on this website at any time and without notice.
 
 
-## Limitation of liability
+## Limitation of Liability
 You agree to absolve Lillen Art (lillenart.github.io) of any and all liability or loss that you or any person or entity associated with you may suffer or incur as a result of use of the information contained on this website and/or the resources you may download or buy from this website. You agree that we shall not be liable to you for any type of damages, including direct, indirect, special, incidental, equitable, or consequential loss or damages for use of this website.
 
 
@@ -23,7 +23,7 @@ At various times, we may provide reviews of products, services, or other resourc
 Regardless of any such discounts, we will provide honest reviews of these products and/or services. You recognize that you should conduct your own due diligence and should not rely solely upon any reviews provided on this website.
 
 
-## Views & Opinions
+## Opinion
 The views and opinions expressed on this website are soley those of the original authors and other contributors. These views and opinions do not necessarily represent those of our employers, or any other affiliated organizations. 
 
 
