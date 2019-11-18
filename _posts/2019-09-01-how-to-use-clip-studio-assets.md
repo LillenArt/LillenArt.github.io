@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Use Clip Studio Assets
-category: [Clip Studio Paint]
+category: [Clip_Studio_Paint]
 tags: [clipstudio, tutorial, assets]
 comments: true
 ---

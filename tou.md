@@ -1,0 +1,33 @@
+---
+layout: page
+title: TOS
+---
+
+## Disclaimer
+The materials on this website are provided on an 'as is' and 'as available' basis. We make no warrenties, expressed or implied. We make no representation or warranties with respect to the accuracy, applicability, fitness, or completeness of the contents of this Website. You expressly agree that your use of this website is at your sole risk. 
+
+The information contained on this Website and the resources available for download through this website are for educational and informational purposes only and shall not be understood or construed as, professional advice. 
+
+We have taken reasonable steps to ensure that the information contained in this Website is accurate, but we cannot represent that this Website is free of errors. You accept that the information contained on this Website may be erroneous and agree to conduct due diligence to verify any information obtained from this Website and/or resources available on it prior to taking any action. You expressly agree not to rely upon any information contained in this website.
+
+There may be changes to the material on this website at any time and without notice.
+
+
+## Limitation of liability
+You agree to absolve Lillen Art (lillenart.github.io) of any and all liability or loss that you or any person or entity associated with you may suffer or incur as a result of use of the information contained on this website and/or the resources you may download or buy from this website. You agree that we shall not be liable to you for any type of damages, including direct, indirect, special, incidental, equitable, or consequential loss or damages for use of this website.
+
+
+## Reviews
+At various times, we may provide reviews of products, services, or other resources. Any such reviews will represent the good-faith opinions of the author of such review. The products and services reviewed may be provided to us for free or at a reduced price as an incentive to provide a review. We will disclose the existence of any discounts or incentives received in exchange for providing a review of a product. If you would like more information about any such discounts and incentives, please contact us.
+
+Regardless of any such discounts, we will provide honest reviews of these products and/or services. You recognize that you should conduct your own due diligence and should not rely solely upon any reviews provided on this website.
+
+
+## Views & Opinions
+The views and opinions expressed on this website are soley those of the original authors and other contributors. These views and opinions do not necessarily represent those of our employers, or any other affiliated organizations. 
+
+
+## Non-Affiliation
+Lillen Art (lillenart.github.io) is not affiliate with, endorsed by, or sponsored by Clip Studio Paint and / or CELSYS or any of their affiliates or subsidiaries.
+
+Any product names, logos, brands, and other trademarks or images featured or referred to within the  website and/or on any social media forum are the property of their respective trademark holders. These trademark holders do not sponsor or endorse this website or any of its products or comments. 
