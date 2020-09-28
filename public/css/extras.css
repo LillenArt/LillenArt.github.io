@@ -3,6 +3,11 @@ img[src*="#thumbnail"] {
     height:auto;
  }
 
+ .thumbnail {
+  width:300px;
+  height:auto;
+}
+
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
     float: left;
