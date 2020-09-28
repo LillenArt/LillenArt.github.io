@@ -1,0 +1,70 @@
+I"]<p><img src="/assets/images/hajimaru/hajimaru_tutorial.jpg" alt="How to Use Clip Studio Assets" /></p>
+
+<h2 id="1-sketch">1. Sketch</h2>
+<p>Start with a really rough sketch. Then lower the opacity of the rough sketch layer, make a new layer, and begin a more detailed sketch. If you’re not confident in your observational skills, you can use a grid to help you eyeball where the features are. Keep the sketch layer at the top with the layer mode set to ‘Multiply’.</p>
+
+<p><img src="/assets/images/hajimaru/1.jpg#thumbnails" alt="1. Sketch" /></p>
+
+<h2 id="2-local-tones">2. Local Tones</h2>
+<p>The local tone is basically the black and white equivalent of an object’s local color. <em>What is local color?</em> Local color is basically the native color of the object without any interference from direct or ambient light and shadows. I make a new layer under my sketch layer and pick 2 to 4 tones for this part to keep things simple. Use your mid tone to gauge how dark or light an object should be.</p>
+
+<p><img src="/assets/images/hajimaru/2.jpg#thumbnails" alt="2. Local Tones" /></p>
+
+<h2 id="3-grouping-lights--shadows-together">3. Grouping lights &amp; shadows together</h2>
+<p>On a separate layer, I use only 2 tones to group all of of the shadows and highlights together. I recommend using a harder brush to start with and don’t worry about blending yet.</p>
+
+<p>Some artists like to use specifically the darkest dark tone and the lightest light tones for this step. I prefer to build up my values gradually so I started with a pretty light value for the shadows. Either way works fine. For the background, I used a soft a brush to lightly indicate the light so things wouldn’t feel as flat.</p>
+
+<p><img src="/assets/images/hajimaru/3.jpg#thumbnails" alt="3. Grouping lights &amp; shadows together" /></p>
+
+<!--more-->
+
+<h2 id="4-tones--lights--shadows-combined">4. Tones &amp; Lights / Shadows Combined</h2>
+<p>Step 2 &amp; 3 combined together. It’s a pretty good base to work from and now the over all values for the figure have been established.</p>
+
+<p><img src="/assets/images/hajimaru/4.jpg#thumbnails" alt="4. Tones &amp; Lights / Shadows Combined" /></p>
+
+<h2 id="5-adding-in-between-values">5. Adding In between Values</h2>
+<p>Pick 2 - 3 more tones and start adding the in between values, darker darks and lighter lights. At this point, I’m still using a fairly hard oily brush with a little bit of texture. I try not to blend / use blending brushes or super soft brushes. I recommend staying fairly zoomed out and resist zooming in too closely. The goal is not fine details, but rather getting our values down accurately. Note: This is usually where the ‘ugly stage’ happens for most of my paintings, so if you start to get discouraged, don’t give up. Keep pushing through it will be worth it.</p>
+
+<p><img src="/assets/images/hajimaru/5.jpg#thumbnails" alt="5. Adding In between Values" /></p>
+
+<h2 id="6-define-edges">6. Define Edges</h2>
+<p>This is one of the biggest and most important steps: edges. In my previous tutorials I don’t think I stressed just how much time, effort and knowledge it requires to define your edges. If you are new to painting, I absolutely recommend you learn about the different types of edges first.</p>
+
+<p>This is where I will start lowering the opacity of my sketch layer. I will usually take all the layers underneath my sketch layer (making sure to keep the sketch layer separate) and ‘merge visible to new layer’. I begin blending using a combination of blender brushes and soft brushes to soften my edges and imply a bit of ambient occlusion and reflected light. It’s okay to zoom in a bit more and start defining eyes, nose, lips, etc.</p>
+
+<p><img src="/assets/images/hajimaru/6.jpg#thumbnails" alt="6. Define Edges" /></p>
+
+<h2 id="7-color-thumbnails">7. Color Thumbnails</h2>
+<p>I used <a href="https://color.adobe.com/create/color-wheel">Adobe Color</a> to come up with 4 color palettes I thought would work and tried them out roughly. In the past, I would jump straight into color without thinking about it much, but I think planning has much better results. After some consideration, I decided to combine aspects of palette #2 and #3. Originally, I was planning on using palette #4, but I it’s a bit too monochromatic compared to the other themes.</p>
+
+<p><img src="/assets/images/hajimaru/7.jpg#thumbnails" alt="7. Color Thumbnails" /></p>
+
+<h2 id="8-applying-basic-colors">8. Applying Basic Colors</h2>
+<p>Now that we have a solid foundation of values and edges, we can move on to color, but it’s important to keep what we’ve already established. I don’t like painting over the value layer or using multiply / overlay layer modes because they can easily destroy your values. In addition, simply adding a color layer over black tones can make the end result look gray and lifeless. If you want a visual example of the issues with grayscale, I recommend watching Marco Bucci’s ‘<a href="https://www.youtube.com/watch?v=lJitss58XKc">Grayscale to Color</a>’ as it demonstrates some of these problems and more.</p>
+
+<p>One good solution to these issues is to use <strong>Gradient Maps</strong>. As opposed to using a dull color wash over gray values, Gradient Maps allow the artist to  <strong><a href="https://www.deviantart.com/cgcookie/art/Exercise-41-Practice-Sheet-Color-Shifting-573229761">hue shift</a></strong>, selecting individual colors that correspond to each of the values.</p>
+
+<p>In this example, I merge all the layers together and duplicate it. Take the top layer and create a gradient map. Try out different colors based on your pre-selected palette. It may take a few tries to get the right combination of colors. Slide each individual color around to try and match it to the corresponding value.</p>
+
+<p><img src="/assets/images/hajimaru/8.jpg#thumbnails" alt="8. Applying Basic Colors" /></p>
+
+<h2 id="9-building-colors--adjustments">9. Building colors &amp; Adjustments</h2>
+<p>The color palette here has a warm (orange) - cool (blue) dichotomy which is nicely balanced, but it’s not a bad idea to choose a main color that can be used to draw emphasis.</p>
+
+<p>Normally for a portrait painting, it’s a good idea to draw attention to the face as it’s naturally where the human eye tends to be drawn. However, I decided to go against the grain and make the blue shirt the main color. With adjustment layers you can easily increase the vibrance and saturation.</p>
+
+<p><img src="/assets/images/hajimaru/9.jpg#thumbnails" alt="9. Applying Basic Colors" /></p>
+
+<h2 id="10-detailing--making-corrections">10. Detailing &amp; Making Corrections</h2>
+<p>I refined my edges and colors even further on the collar, nose, lips, eyes, chin, arm and fingers. I select colors off the painting itself by a hotkey set to a button on my pen. When detailing, focus on the areas where people tend to look. Avoid drawing every strand of hair. Darker objects, especially those in shadow, can be less detailed. Light objects, like the white fabric in the collar, reflects the nearby colors like the blue shirt and the warm shadows.</p>
+
+<p><img src="/assets/images/hajimaru/10.jpg#thumbnails" alt="10. Detailing &amp; Making Corrections" /></p>
+
+<h2 id="11-final-image--post-processing">11. Final image &amp; Post Processing</h2>
+<p>I typically adjust things like levels, vibrance, saturation, white balance, etc. The most notable change here was shifting the colors in a cooler direction. This was done because the skin was looking a bit too orange and unnatural. Also, I think the shirt looked better with less cyan.</p>
+
+<h2 id="thank-you">Thank You!</h2>
+<p>If you’ve enjoyed this tutorial, please link and share with a friend. Thank you for reading.</p>
+:ET

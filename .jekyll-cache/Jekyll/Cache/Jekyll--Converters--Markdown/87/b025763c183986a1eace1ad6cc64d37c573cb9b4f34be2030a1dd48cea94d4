@@ -1,0 +1,16 @@
+I"b<p><img src="/assets/images/hajimaru/hajimaru_tutorial.jpg" alt="How to Use Clip Studio Assets" /></p>
+
+<h2 id="1-sketch">1. Sketch</h2>
+<p>Start with a really rough sketch. Then lower the opacity of the rough sketch layer, make a new layer, and begin a more detailed sketch. If you’re not confident in your observational skills, you can use a grid to help you eyeball where the features are. Keep the sketch layer at the top with the layer mode set to ‘Multiply’.</p>
+
+<p><img src="/assets/images/hajimaru/1.jpg#thumbnails" alt="1. Sketch" /></p>
+
+<h2 id="2-local-tones">2. Local Tones</h2>
+<p>The local tone is basically the black and white equivalent of an object’s local color. <em>What is local color?</em> Local color is basically the native color of the object without any interference from direct or ambient light and shadows. I make a new layer under my sketch layer and pick 2 to 4 tones for this part to keep things simple. Use your mid tone to gauge how dark or light an object should be.</p>
+
+<h2 id="3-grouping-lights--shadows-together">3. Grouping lights &amp; shadows together</h2>
+<p>On a separate layer, I use only 2 tones to group all of of the shadows and highlights together. I recommend using a harder brush to start with and don’t worry about blending yet.</p>
+
+<p>Some artists like to use specifically the darkest dark tone and the lightest light tones for this step. I prefer to build up my values gradually so I started with a pretty light value for the shadows. Either way works fine. For the background, I used a soft a brush to lightly indicate the light so things wouldn’t feel as flat.</p>
+
+:ET
