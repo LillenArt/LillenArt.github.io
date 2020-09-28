@@ -5,7 +5,7 @@ category: [Art Process]
 tags: [tutorial, art process]
 comments: true
 ---
-![How to Use Clip Studio Assets](/assets/images/hajimaru/hajimaru_tutorial.jpg)
+![Hajimaru Tutorial](/assets/images/hajimaru/hajimaru_tutorial.jpg)
 
 ## 1. Sketch
 Start with a really rough sketch. Then lower the opacity of the rough sketch layer, make a new layer, and begin a more detailed sketch. If you're not confident in your observational skills, you can use a grid to help you eyeball where the features are. Keep the sketch layer at the top with the layer mode set to 'Multiply'.
