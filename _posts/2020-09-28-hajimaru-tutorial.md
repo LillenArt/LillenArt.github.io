@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hajimaru - Art Process & Tutorial
-category: [Art Process]
+category: [Art_Process]
 tags: [tutorial, art process]
 comments: true
 ---
