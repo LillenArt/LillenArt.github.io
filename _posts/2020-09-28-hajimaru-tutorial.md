@@ -2,7 +2,7 @@
 layout: post
 title: Hajimaru - Art Process & Tutorial
 category: [Art_Process]
-tags: [tutorial, art process]
+tags: [tutorial, art_process]
 comments: true
 ---
 ![Hajimaru Tutorial](/assets/images/Hajimaru/hajimaru_tutorial.jpg)
