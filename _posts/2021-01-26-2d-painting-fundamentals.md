@@ -6,6 +6,11 @@ tags: [tutorial, art_education]
 comments: true
 ---
 
+![Studying the Art Fundamentals](/assets/images/Hajimaru/2d_fundamentals/fun01_intro.jpg)
+
+*Photo by [Green Chameleon](https://unsplash.com/@craftedbygc) on [Unsplash](https://unsplash.com/)*
+
+
 # Introduction
 People often ask, "What are the art fundamentals?" This article seeks to list out each of the *basics* that I think a student should have a firm understanding of if they want to pursue 2D digital art / painting. The definitions included are for context, as a beginner may be unfamiliar with these terms. Use this list as you would notes from class. It is a guide to give you ideas on what to study or practice next. I will not be able to teach you these subjects, but you should be able to seek the knowledge out yourself.
 
@@ -17,6 +22,7 @@ This list is not necessarily in any kind of order. Many of the fundamentals infl
 ****
 
 # List of Fundamentals
+*Author's Note: This guide is still a work in progress. Visual aids and helpful links will be added later. Feel free to leave feedback in the comments below. Thank you.*
 
 ## Shapes
 - Cube / Square
