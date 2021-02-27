@@ -128,7 +128,3 @@ Relative size and relationship between parts / objects.
 	- Nose
 	- Lips
 	- Ears
-
-
-## About the Author
-I'm an artist on my own self teaching journey who loves sharing knowledge. I strongly believe that education should be accessible to everyone who wants to learn.
