@@ -17,12 +17,12 @@ People often ask, "What are the art fundamentals?" This article seeks to list ou
 <!--more-->
 
 ## What order should I study these in?
-This list is not necessarily in any kind of order. Many of the fundamentals influence each other, so in my opinion, there is no true linear order. An artist could choose to study either one or several of these at a time. It's up to you to figure out what works for you and build study habits accordingly. It's okay to pick a focus for a period of time. However, I caution you to not expect to completely 100% master a particular fundamental before moving on. Except to learn these gradually over a long period of time. Also, I do not recommend favoring a specific fundamental and ignoring all others. All listed are important. Think of each fundamental as a puzzle piece that fits into a greater whole. The goal for a beginner is to gain an basic understanding of each concept and the ability to demonstrate that knowledge in their work.
+This list is not necessarily in any kind of order. Many of the fundamentals influence each other, so in my opinion, there is no true linear order. An artist could choose to study either one or several of these at a time. It's up to you to figure out what works for you and build study habits accordingly. It's okay to pick a focus for a period of time. However, I caution you to not expect to completely 100% master a particular fundamental before moving on. Except to learn these gradually over a long period of time. Also, I do not recommend favoring a specific fundamental and ignoring all others. All listed are important. Think of each fundamental as a puzzle piece that fits into a greater whole. The goal for a beginner is to gain a basic understanding of each concept and the ability to demonstrate that knowledge in their work.
 
 ****
 
 # List of Fundamentals
-*Author's Note: This guide is still a work in progress. Visual aids and helpful links will be added later. Feel free to leave feedback in the comments below. Thank you.*
+*Author's Note: This guide is still a work in progress. Visual aids will be added at a later date.*
 
 ## Shapes
 - Cube / Square
@@ -92,7 +92,7 @@ Relative size and relationship between parts / objects.
 	- Faces
 	- Child / Elderly
 
-*Note - Proportion is often idealized, eggagerated, and gender binary. While I do recommend studying "male and female proportion", understand these are steriotypes and are not necessarily accurate or realistic. Drawing people who do not fit these molds is encouraged.* 
+**Note - Proportion is often idealized, exaggerated, and gender binary. While I do recommend studying "male and female proportion", understand these are stereotypes and are not necessarily accurate or realistic. Drawing people who do not fit these molds is encouraged.* * 
 
 ## Anatomy (Human)
 - Gesture drawing
