@@ -6,7 +6,7 @@ tags: [tutorial, art_education]
 comments: true
 ---
 
-![Studying the Art Fundamentals](/assets/images/Hajimaru/2d_fundamentals/fun01_intro.jpg)
+![Studying the Art Fundamentals](/assets/images/2d_fundamentals/fun01_intro.jpg)
 
 *Photo by [Green Chameleon](https://unsplash.com/@craftedbygc) on [Unsplash](https://unsplash.com/)*
 
